@@ -1,6 +1,6 @@
 # Markdown
 
-[<- Languages](./README.md)
+[(← back)](./README.md)
 
 ## Text
 

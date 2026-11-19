@@ -1,8 +1,8 @@
 # Frontend
 
-[<- Web](../README.md)
+[(← back)](../README.md)
 
-[Structure ->](./structure/README.md)
+[Structure →](./structure/README.md)
 
 - [Folder Setup](./folder-setup.md)
 - [React Router](./react-router.md)

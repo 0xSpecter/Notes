@@ -1,4 +1,4 @@
 # Ideas
 
-[<- Personal](./README.md)
+[(← back)](./README.md)
 

@@ -1,6 +1,6 @@
 # Design Workshop
 
-[<- Design](./README.md)
+[(← back)](./README.md)
 
 ## Stikkord
 
@@ -12,9 +12,9 @@
 
 ## Hva skal samf 4 være
 
-- Tradisjonsrik <--------> Hipp
-- Ordentlig     <--------> Festlig
-- Mangfold      <--------> Studenter som fester
+- Tradisjonsrik ←--------→ Hipp
+- Ordentlig     ←--------→ Festlig
+- Mangfold      ←--------→ Studenter som fester
 
 ## Grupper
 

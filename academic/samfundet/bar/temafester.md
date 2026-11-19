@@ -1,6 +1,6 @@
 # Temafester
 
-[<- Bar](./README.md)
+[(← back)](./README.md)
 
 ## Ideer
 

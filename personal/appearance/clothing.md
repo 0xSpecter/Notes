@@ -1,6 +1,6 @@
 # Clothing
 
-[<- Appearance](./README.md)
+[(← back)](./README.md)
 
 ## Lower
 

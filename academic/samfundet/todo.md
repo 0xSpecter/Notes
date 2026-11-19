@@ -1,6 +1,6 @@
 # TODO
 
-[<- Samfundet](./README.md)
+[(← back)](./README.md)
 
 ## Tasks
 

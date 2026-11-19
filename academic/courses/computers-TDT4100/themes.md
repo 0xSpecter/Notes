@@ -1,6 +1,6 @@
 # Themes
 
-[<- Computers TDT4100](./README.md)
+[(← back)](./README.md)
 
 ## Performance
 

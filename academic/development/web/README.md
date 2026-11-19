@@ -1,5 +1,5 @@
 # Web
 
-[<- Development](../README.md)
+[(← back)](../README.md)
 
-[Frontend ->](./frontend/README.md)
+[Frontend →](./frontend/README.md)

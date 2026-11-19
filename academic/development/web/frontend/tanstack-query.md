@@ -1,4 +1,4 @@
-[<- Frontend](./README.md)
+[(← back)](./README.md)
 
 ## TanStack Query
 
@@ -193,16 +193,16 @@ queryKey is the key and the value is what the last `queryFn` / api call returned
 Example:
 
 ```ts
-const eventsQueryKey = ['events'] // <- QueryKey for getting all events
-const usersQueryKey = ['users'] // <- QueryKey for getting all users
+const eventsQueryKey = ['events'] // ← QueryKey for getting all events
+const usersQueryKey = ['users'] // ← QueryKey for getting all users
 ```
 
 The reason for defining queryKeys as arrays is that a queryKey can consist of multiple
 strings. This is to make it easier to relate and invalidate queries.
 
 ```ts
-const upcommingEventsQueryKey = ['event', 'upcomming'] // <- QueryKey for getting upcomming events
-const newAdminUsersQueryKey = ['users', 'new', 'admin'] // <- QueryKey for getting new admin users
+const upcommingEventsQueryKey = ['event', 'upcomming'] // ← QueryKey for getting upcomming events
+const newAdminUsersQueryKey = ['users', 'new', 'admin'] // ← QueryKey for getting new admin users
 ```
 
 ### Invalidation

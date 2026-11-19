@@ -1,6 +1,6 @@
 # Projects
 
-[<- Notes](../README.md)
+[(← back)](../README.md)
 
 - [Project ideas](./project-ideas.md)
 - [Samf](./samf.md)

@@ -1,6 +1,6 @@
 # Project ideas
 
-[<- Projects](./README.md)
+[(← back)](./README.md)
 
 ## Websites
 

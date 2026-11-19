@@ -1,5 +1,5 @@
 # Inspiration
 
-[<- Design](../README.md)
+[(← back)](../README.md)
 
-[Webdesign ->](./webdesign/README.md)
+[Webdesign →](./webdesign/README.md)

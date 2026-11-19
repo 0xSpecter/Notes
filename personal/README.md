@@ -1,8 +1,8 @@
 # Personal
 
-[<- Notes](../README.md)
+[(← back)](../README.md)
 
-[Appearance ->](./appearance/README.md)
+[Appearance →](./appearance/README.md)
 
 - [Gifts](./gifts.md)
 - [Handleliste](./handleliste.md)

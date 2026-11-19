@@ -1,6 +1,6 @@
 # Læring
 
-[<- Bar](./README.md)
+[(← back)](./README.md)
 
 ## Meg
 

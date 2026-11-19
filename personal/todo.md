@@ -1,6 +1,6 @@
 # TODO
 
-[<- Personal](./README.md)
+[(← back)](./README.md)
 
 - Update pizzaindex
 - Update basedev

@@ -1,6 +1,6 @@
 # Languages
 
-[<- Academic](../README.md)
+[(← back)](../README.md)
 
 - [Assembly](./asm.md)
 - [Markdown](./markdown.md)

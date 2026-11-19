@@ -1,7 +1,7 @@
 # Notes
 
-[Academic ->](./academic/README.md)
+[Academic →](./academic/README.md)
 
-[Personal ->](./personal/README.md)
+[Personal →](./personal/README.md)
 
-[Projects ->](./projects/README.md)
+[Projects →](./projects/README.md)

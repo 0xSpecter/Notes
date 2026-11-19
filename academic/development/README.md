@@ -1,5 +1,5 @@
 # Development
 
-[<- Academic](../README.md)
+[(← back)](../README.md)
 
-[Web ->](./web/README.md)
+[Web →](./web/README.md)

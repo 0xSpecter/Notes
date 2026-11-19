@@ -1,6 +1,6 @@
 # WatchList
 
-[<- Personal](./README.md)
+[(← back)](./README.md)
 
 ## Watch
 

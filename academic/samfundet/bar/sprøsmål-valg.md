@@ -1,6 +1,6 @@
 # Sprøsmål Valg
 
-[<- Bar](./README.md)
+[(← back)](./README.md)
 
 ## De jeg fikk
 

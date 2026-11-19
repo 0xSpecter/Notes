@@ -1,6 +1,6 @@
 # Design elements
 
-[<- Webdesign](./README.md)
+[(← back)](./README.md)
 
 ## IDK
 

@@ -1,6 +1,6 @@
 # Gifts
 
-[<- Personal](./README.md)
+[(← back)](./README.md)
 
 ## Birthdays
 

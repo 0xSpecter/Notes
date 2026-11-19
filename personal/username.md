@@ -1,6 +1,6 @@
 # Username
 
-[<- Personal](./README.md)
+[(← back)](./README.md)
 
 Currently workshoping a new username / secondary username.
 

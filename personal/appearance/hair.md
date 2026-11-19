@@ -1,6 +1,6 @@
 # Hair
 
-[<- Appearance](./README.md)
+[(← back)](./README.md)
 
 ## Rettetang
 

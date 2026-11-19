@@ -1,6 +1,6 @@
 # Assembly
 
-[<- Languages](./README.md)
+[(← back)](./README.md)
 
 ## RISC-V
 
