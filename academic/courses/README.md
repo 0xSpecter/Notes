@@ -1,5 +1,5 @@
 # Courses
 
-[(← back)](../README.md)
+[← Back: Academic](../README.md)
 
 [Computers TDT4100 →](./computers-TDT4100/README.md)

@@ -1,6 +1,6 @@
 # Color Schemes
 
-[(← back)](./README.md)
+[← Back: Webdesign](./README.md)
 
 ## IDK
 

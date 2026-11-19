@@ -1,6 +1,6 @@
 # Oppgraderinger
 
-[(← back)](./README.md)
+[← Back: Bar](./README.md)
 
 ## Lys
 

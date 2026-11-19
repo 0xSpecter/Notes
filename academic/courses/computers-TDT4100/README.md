@@ -1,6 +1,6 @@
 # Computers TDT4100
 
-[(← back)](../README.md)
+[← Back: Courses](../README.md)
 
 - [RISC-V](./RISC-V.md)
 - [Gpu](./gpu.md)

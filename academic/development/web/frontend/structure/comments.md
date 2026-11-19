@@ -1,6 +1,6 @@
 # Comments
 
-[(← back)](./README.md)
+[← Back: Structure](./README.md)
 
 Useful ways to design comments and sectioning within files.
 

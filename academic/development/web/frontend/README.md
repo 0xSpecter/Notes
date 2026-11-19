@@ -1,6 +1,6 @@
 # Frontend
 
-[(← back)](../README.md)
+[← Back: Web](../README.md)
 
 [Structure →](./structure/README.md)
 

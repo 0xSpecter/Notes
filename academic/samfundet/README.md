@@ -1,6 +1,6 @@
 # Samfundet
 
-[(← back)](../README.md)
+[← Back: Academic](../README.md)
 
 [Bar →](./bar/README.md)
 

@@ -1,6 +1,6 @@
 # Skincare
 
-[(← back)](./README.md)
+[← Back: Appearance](./README.md)
 
 ## xxx
 

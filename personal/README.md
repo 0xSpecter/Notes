@@ -1,6 +1,6 @@
 # Personal
 
-[(← back)](../README.md)
+[← Back: Notes](../README.md)
 
 [Appearance →](./appearance/README.md)
 

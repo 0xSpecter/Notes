@@ -1,4 +1,4 @@
 # Prossesor
 
-[(← back)](./README.md)
+[← Back: Computers TDT4100](./README.md)
 

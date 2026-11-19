@@ -1,6 +1,6 @@
 # Academic
 
-[(← back)](../README.md)
+[← Back: Notes](../README.md)
 
 [Courses →](./courses/README.md)
 

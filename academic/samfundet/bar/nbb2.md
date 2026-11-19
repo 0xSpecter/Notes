@@ -1,6 +1,6 @@
 # Nbb.samfundet.no 2
 
-[(← back)](./README.md)
+[← Back: Bar](./README.md)
 
 ## Mine ideer
 

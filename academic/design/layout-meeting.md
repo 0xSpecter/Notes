@@ -1,6 +1,6 @@
 # Design Workshop
 
-[(← back)](./README.md)
+[← Back: Design](./README.md)
 
 ## Stikkord
 

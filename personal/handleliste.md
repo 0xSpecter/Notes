@@ -1,6 +1,6 @@
 # Handleliste
 
-[(← back)](./README.md)
+[← Back: Personal](./README.md)
 
 - HudKrem
 - Vekkeklokke

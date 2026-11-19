@@ -1,6 +1,6 @@
 # Structure
 
-[(← back)](./README.md)
+[← Back: Structure](./README.md)
 
 This file will in future discuss my prefered way of structureing a web development project
 

@@ -1,6 +1,6 @@
 # Design
 
-[(← back)](../README.md)
+[← Back: Academic](../README.md)
 
 [Inspiration →](./inspiration/README.md)
 

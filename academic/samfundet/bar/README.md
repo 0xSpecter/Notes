@@ -1,6 +1,6 @@
 # Bar
 
-[(← back)](../README.md)
+[← Back: Samfundet](../README.md)
 
 - [Læring](./læring.md)
 - [Nbb.samfundet.no 2](./nbb2.md)

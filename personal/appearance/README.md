@@ -1,6 +1,6 @@
 # Appearance
 
-[(← back)](../README.md)
+[← Back: Personal](../README.md)
 
 - [Clothing](./clothing.md)
 - [Hair](./hair.md)

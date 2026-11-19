@@ -1,6 +1,6 @@
 # TanStack Query
 
-[(← back)](./README.md)
+[← Back: Frontend](./README.md)
 
 Meta
 
