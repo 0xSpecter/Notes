@@ -1,5 +1,7 @@
 # TODO
 
+[<- Samfundet](./README.md)
+
 ## Tasks
 
 ### Learn _Figma_

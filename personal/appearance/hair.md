@@ -1,5 +1,7 @@
 # Hair
 
+[<- Appearance](./README.md)
+
 ## Rettetang
 
 - Bruke lav varme helst

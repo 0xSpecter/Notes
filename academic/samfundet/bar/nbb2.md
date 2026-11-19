@@ -1,5 +1,7 @@
 # Nbb.samfundet.no 2
 
+[<- Bar](./README.md)
+
 ## Mine ideer
 
 ### Betaling

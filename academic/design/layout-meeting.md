@@ -1,5 +1,7 @@
 # Design Workshop
 
+[<- Design](./README.md)
+
 ## Stikkord
 
 - Mangfold

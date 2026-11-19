@@ -1,5 +1,7 @@
 # Themes
 
+[<- Computers TDT4100](./README.md)
+
 ## Performance
 
 ### Right more often then not

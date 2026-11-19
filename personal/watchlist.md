@@ -1,5 +1,7 @@
 # WatchList
 
+[<- Personal](./README.md)
+
 ## Watch
 
 ### Action

@@ -1,5 +1,7 @@
 # Oppgraderinger
 
+[<- Bar](./README.md)
+
 ## Lys
 
 ### RGB / Lysstriper

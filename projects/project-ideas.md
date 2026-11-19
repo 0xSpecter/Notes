@@ -1,5 +1,7 @@
 # Project ideas
 
+[<- Projects](./README.md)
+
 ## Websites
 
 ### Måte å søke opp git repoer

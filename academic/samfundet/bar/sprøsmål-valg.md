@@ -1,5 +1,7 @@
 # Sprøsmål Valg
 
+[<- Bar](./README.md)
+
 ## De jeg fikk
 
 - Hva ville du endret

@@ -1,5 +1,7 @@
 # Username
 
+[<- Personal](./README.md)
+
 Currently workshoping a new username / secondary username.
 
 _why_: Ash is hard to say, often taken / already used, most people just think of pokemon,

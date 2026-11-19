@@ -1,5 +1,7 @@
 # Gifts
 
+[<- Personal](./README.md)
+
 ## Birthdays
 
 - [ ] Mom

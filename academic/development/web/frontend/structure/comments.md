@@ -1,5 +1,7 @@
 # Comments
 
+[<- Structure](./README.md)
+
 Useful ways to design comments and sectioning within files.
 
 Especally for longer css files and scss partial files as they can get quite long too.

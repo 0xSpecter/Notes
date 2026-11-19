@@ -1,5 +1,7 @@
 # Handleliste
 
+[<- Personal](./README.md)
+
 - HudKrem
 - Vekkeklokke
 - Bra hårfjerningskrem

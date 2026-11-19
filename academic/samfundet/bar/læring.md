@@ -1,5 +1,7 @@
 # Læring
 
+[<- Bar](./README.md)
+
 ## Meg
 
 - Lese gjennom dokumenter i BAR drive'en
