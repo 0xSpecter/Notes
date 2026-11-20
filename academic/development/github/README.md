@@ -2,4 +2,4 @@
 
 [← Back: Development](../README.md)
 
-[Supported emojis →](./emojis.md)
+- [Supported emojis](./emojis.md)
