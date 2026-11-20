@@ -23,14 +23,16 @@
 ###### H6
 ```
 
-Alternative (H1/H2 only):
+### Anchors
+
+Heading anchors: lowercase, spaces → `-`, punctuation removed.
 
 ```md
-Heading 1
-=========
+[Headings](#headings)
 
-Heading 2
----------
+[Unordered and Ordered lists](#lists)
+
+[Code Blocks](#code-blocks)
 ```
 
 ## Lists
@@ -38,17 +40,18 @@ Heading 2
 ```md
 - Unordered
 - Items
-  - Nested (indent 2–4 spaces)
+    - Nested
+        - Super Nested
 
 1. Ordered
 2. Items
-   1. Nested
+    1. Nested
+    2. Nested 2
+        1. Super Nested
 
-- [ ] Task (GFM)
-- [x] Done
+- [ ] Task
+- [x] Task done
 ```
-
-Ordered lists only use the first number; `1.` on every line still counts up.
 
 ## Links and images
 
@@ -61,15 +64,14 @@ Ordered lists only use the first number; `1.` on every line still counts up.
 [ref]: https://example.com
 
 [Other note](../courses/README.md)   relative link
-[Section](#code-blocks)              heading anchor
 
 ![alt text](path/to/image.png)
 [![alt](img.png)](https://example.com)   linked image
 ```
 
-Heading anchors: lowercase, spaces → `-`, punctuation removed.
-
 ## Code blocks
+
+Code:
 
 ````md
 ```python
@@ -77,8 +79,14 @@ print("hello")
 ```
 ````
 
-Indenting four spaces also makes a code block (no syntax highlighting).
-Use four backticks to wrap a block that itself contains triple backticks.
+Displayed as:
+
+```python
+print("hello")
+```
+
+When displaying code blocks in markdown as above use four backticks
+to wrap a block that itself contains triple backticks.
 
 ## Blockquotes
 
@@ -86,14 +94,55 @@ Use four backticks to wrap a block that itself contains triple backticks.
 > Quote
 >
 > > Nested quote
+> >
+> > > Very nested quote
 ```
 
-GitHub callouts:
+> Quote
+>
+> > Nested quote
+> >
+> > > Very nested quote
+
+### GitHub callouts
+
+Code:
 
 ```md
 > [!NOTE]
-> Also TIP, IMPORTANT, WARNING, CAUTION
+> Useful information users should know, even when skimming.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 ```
+
+Displayed as:
+
+> [!NOTE]
+> Useful information users should know, even when skimming.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+The `[!TYPE]` line must be on its own, and callouts can't be nested.
 
 ## Tables (GFM)
 
