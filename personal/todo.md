@@ -4,3 +4,4 @@
 
 - Update pizzaindex
 - Update basedev
+- Brage sende inn hvem som har sittet lenkevakt eg (meg)

@@ -15,13 +15,21 @@
 - [ ] Bli-Hvit mail
 - [ ] Styring av vask
 - [ ] Styring av barvakter
-- [ ] Sette opp mail footer (det er kult)
+- [ ] Hvorfor brukes det bare så bokser
+    - [ ] Er det problemer med større?
 
 ### Erik
 
-- Hvordan funker plingen
+- [ ] Muligheter ved pling
+- [ ] Ønsker til pling
 
-### Robin / Senior
+### Robin
 
-- Inføring i nbb.samfundet.no
-- Status på nbb.samfundet.no 2
+- [ ] Møte angående:
+    - Dypere inn i status.
+    - Brukt tech stack.
+    - Forventet release date.
+    - Hva trenges gjort.
+    - Hva trengs det hjelp med.
+    - Grenser for hva Robin vil holde på med selv.
+    - Utvikler aktivt 2 kritiske og tidspresset systemer.
